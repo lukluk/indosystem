@@ -3,40 +3,44 @@ dev team indosystem
 
 ## Loket.com
 
-Andree
+Andree - product owner
 
-Wahyu
+Wahyu - fullstack dev
 
-Anita
+Anita - backend dev
 
-Ardian
+Ardian - frontend dev
 
 ## Member.id
 
-Lukluk
+Lukluk - fullstack dev
 
-Kresida
+Kresida - fullstack dev
+
+Ardian - UI 
+
+Lis - frontend dev +helper
 
 ## ZB
 
-Edy Senjaya
+Edy Senjaya - project manager
 
-Sandhi
+Sandhi - drupal dev / frontend
 
-Henri
+Henri - drupal dev / backend
 
-Lis
+Lis - tester
 
 ## Production Support
 
-Lukluk
+Lukluk  - Leader
 
-Kresida
+Kresida - fullstack dev
 
-Anita
+Anita - backend dev
 
-Lis
+Lis - tester
 
 ## Testing
 
-Lis
+Lis - tester
