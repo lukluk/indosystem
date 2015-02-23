@@ -1,6 +1,16 @@
 # indosystem
 dev team indosystem
 
+## Eventbistro
+
+Law
+
+Edy Senjaya
+
+Anita
+
+Lis
+
 ## Loket.com
 
 Andree - product owner
